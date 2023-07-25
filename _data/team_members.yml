@@ -7,9 +7,24 @@
   education2: Postdoc Microsoft Research Cambridge, COmputational Ecology Group 2013 -2015
   education3: Scientist, Max Planck Institute for Biogeochemistry, terrestrial Biosphere Modelling group 2015-2022
 
+- name:Gabriela Sophia
+  photo: Gabriela.jpg
+  info: PhD student (joint with Max Planck Institute for Biogeochemistry, started September 2021
+  email: gsophia@bgc-jena.mpg.de
+  number_educ: 1
+  education1: MSc Univeristy of Campinas, 2021
+
+- name:Josua Seitz
+  photo: bio-photo.jpg
+  info: PhD student, started January 2023
+  email: seitzj@tcd.ie
+  number_educ: 1
+  education1: MSc Umea University, 2021
+
+
 - name: "This could be you !"
   photo: rock.jpg
   info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
-  email: milan.allan@gmail.com
+  email: caldaras@tcd.ie
   number_educ: 0
 
