@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Plant Ecology Modelling Group at Trinity College Dublin"
 sitemap: false
 permalink: /allnews.html
 ---

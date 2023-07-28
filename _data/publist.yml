@@ -1,4 +1,4 @@
-- title: Beyond model evaluation – combining experiments and models to advance terrestrial ecosystem science
+- title: "Beyond model evaluation – combining experiments and models to advance terrestrial ecosystem science"
   image: dummy.png
   description: ""
   authors: Caldararu, S., Rolo, V., Stocker, B. D., Gimeno, T. E., and Nair, R
@@ -6,29 +6,26 @@
     url: https://doi.org/10.5194/bg-2023-47
     display: Biogeosciences Discussions (2023)
   highlight: 0
-  news2:
-  
-- title: Predicting resilience through the lens of competing adjustments to vegetation function
+
+- title: "Predicting resilience through the lens of competing adjustments to vegetation function"
   image: dummy.png
   description: ""
   authors: Sabot, M.E.B., De Kauwe, M.G., Pitman, A.J., Ellsworth, D.S., Medlyn, B.E., Caldararu, S. et al.
   link:
     url: https://doi.org/10.1111/pce.14376
-    display:  Plant, Cell & Environment (2022)
+    display:  Plant, Cell and Environment (2022)
   highlight: 0
-  news2:
 
-- title: Mismatch of N release from the permafrost and vegetative uptake opens pathways of increasing nitrous oxide emissions in the high Arctic
+- title: "Mismatch of N release from the permafrost and vegetative uptake opens pathways of increasing nitrous oxide emissions in the high Arctic"
   image: dummy.png
   description: ""
   authors: Lacroix, F., Zaehle, S., Caldararu, S., Schaller, J., Stimmler, P., Holl, D., Kutzbach, L. and Goeckede, M
   link:
-    url: https://doi.org/10.1111/pce.14376
-    display: Global Change Biology  (2022)
+    url: https://doi.org/10.1111/gcb.16345
+    display: Global Change Biology (2022)
   highlight: 0
-  news2:
 
-- title: Long‐term ecosystem nitrogen limitation from foliar δ 15 N data and a land surface model
+- title: "Long‐term ecosystem nitrogen limitation from foliar δ 15 N data and a land surface model"
   image: dummy.png
   description: ""
   authors: Caldararu, S., Thum, T., Yu, L., Kern, M., Nair, R., Zaehle, S
@@ -36,29 +33,26 @@
     url: https://doi.org/10.1111/pce.14376
     display: Global Change Biology  (2022)
   highlight: 0
-  news2:
-​
-- title:The three major axes of terrestrial ecosystem function
+
+- title: "The three major axes of terrestrial ecosystem function"
   image: dummy.png
   description: ""
   authors: Migliavacca, M., et al., inclduing Caldararu, S.
   link:
-    url:https://doi.org/10.1038/s41586-021-03939-9
+    url: https://doi.org/10.1038/s41586-021-03939-9
     display: Nature (2021)
   highlight: 0
-  news2:
-​
-- title: Low phosphorus supply constrains plant responses to elevated CO2: A meta-analysis
+
+- title: "Low phosphorus supply constrains plant responses to elevated CO2: A meta-analysis"
   image: dummy.png
   description: ""
   authors: Jiang, M, Caldararu, S, Zhang, H, et al.
   link:
     url: https://doi.org/10.1111/gcb.15277
-    display: Global Change Biology  (2021)
+    display: Global Change Biology (2021)
   highlight: 0
-  news2:
-​
-- title: Whole-plant optimality predicts changes in leaf nitrogen under variable CO2 and nutrient availability
+
+- title: "Whole-plant optimality predicts changes in leaf nitrogen under variable CO2 and nutrient availability"
   image: dummy.png
   description: ""
   authors: Caldararu, S., Thum, T., Yu, L. and Zaehle, S.
@@ -66,20 +60,17 @@
     url: https://doi.org/10.1111/nph.1632
     display: New Phytologist (2020)
   highlight: 0
-  news2:
- 
-- title:  A new terrestrial biosphere model with coupled carbon, nitrogen, and phosphorus cycles (QUINCY v1.0; revision 1772)
+
+- title: "A new terrestrial biosphere model with coupled carbon, nitrogen, and phosphorus cycles (QUINCY v1.0; revision 1772)"
   image: dummy.png
   description: ""
   authors: Thum, T., Caldararu, S., Engel, J., Kern, M., Pallandt, M., Schnur, R., Yu, L., and Zaehle, S.
   link:
-    url:https://doi.org/10.5194/gmd-12-4781-2019
+    url: https://doi.org/10.5194/gmd-12-4781-2019
     display: Geoscientific Model Development (2019)
   highlight: 0
-  news2:
 
-​
-- title: Towards a more physiological representation of vegetation phosphorus processes in land surface models
+- title: "Towards a more physiological representation of vegetation phosphorus processes in land surface models"
   image: dummy.png
   description: ""
   authors: Jiang, M. , Caldararu, S. , Zaehle, S. , Ellsworth, D. S. and Medlyn, B. E. 
@@ -87,9 +78,8 @@
     url: doi:10.1111/nph.15688
     display: New Phytologist (2019)
   highlight: 0
-  news2:
 
- - title:  The quasi-equilibrium framework re-visited: analyzing long-term CO2 enrichment responses in plant-soil models
+- title: "The quasi-equilibrium framework re-visited: analyzing long-term CO2 enrichment responses in plant-soil models"
   image: dummy.png
   description: ""
   authors: Jiang, M., Zaehle, S., De Kauwe, M. G., Walker, A. P., Caldararu, S., Ellsworth, D. S., and Medlyn, B. E.
@@ -97,9 +87,8 @@
     url: doi.org/10.5194/gmd-2018-291
     display: Geoscientific Model Development (2019)
   highlight: 0
-  news2:
- 
- - title:  The impacts of data constraints on the predictive performance of a general process-based crop model (PeakN-crop v1.0
+
+- title: "The impacts of data constraints on the predictive performance of a general process-based crop model (PeakN-crop v1.0)"
   image: dummy.png
   description: ""
   authors: Caldararu, S., Purves, D. W., and Smith, M. J.
@@ -107,9 +96,8 @@
     url: https://doi.org/10.5194/gmd-10-1679-2017
     display: Geoscientific Model Development (2017)
   highlight: 0
-  news2:
- 
- - title: The effect of using the plant functional type paradigm on a data-constrained global phenology model
+
+- title: "The effect of using the plant functional type paradigm on a data-constrained global phenology model"
   image: dummy.png
   description: ""
   authors: Caldararu, S., Purves, D. W., and Smith, M. J.
@@ -117,9 +105,8 @@
     url: https://doi.org/10.5194/bg-13-925-2016
     display: Biogeosciences (2016)
   highlight: 0
-  news2:
- 
- - title:Phenology as a strategy for carbon optimality: a global model
+
+- title: "Phenology as a strategy for carbon optimality: a global model"
   image: dummy.png
   description: ""
   authors: Caldararu, S.; Purves, D. W. and Palmer, P. I.
@@ -127,17 +114,14 @@
     url: https://doi.org/10.5194/bg-11-763-2014
     display: Biogeosciences (2014)
   highlight: 0
-  news2:
 
- - title:Phenology as a strategy for carbon optimality: a global model
+- title: "Inferring Amazon leaf demography from satellite observations of leaf area index"
   image: dummy.png
   description: ""
   authors: Caldararu, S.; Palmer, P. I.and  Purves, D. W.
   link:
-    url: https://doi.org/10.1111/pce.14376
+    url: https://doi.org/10.5194/bg-9-1389-2012
     display: Biogeosciences (2012)
   highlight: 0
-  news2:
- 
 
 
