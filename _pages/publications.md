@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Publications"
+title: "Plant Ecology Modelling group - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "Plant Ecology Modelling group  -- Publications."
 sitemap: false
 permalink: /publications/
 ---
