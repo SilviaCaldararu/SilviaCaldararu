@@ -3,8 +3,17 @@
   description: ""
   authors: Caldararu, S., Rolo, V., Stocker, B. D., Gimeno, T. E., and Nair, R
   link:
-    url: https://doi.org/10.5194/bg-2023-47
-    display: Biogeosciences Discussions (2023)
+    url: https://bg.copernicus.org/articles/20/3637/2023/bg-20-3637-2023.html
+    display: Biogeosciences (2023)
+  highlight: 0
+
+- title: "Modelled forest ecosystem carbon-nitrogen dynamics with integrated mycorrhizal processes under elevated CO2"
+  image: dummy.png
+  description: ""
+  authors: Thurner, M. A., Caldararu, S., Engel, J., Rammig, A., and Zaehle, S
+  link:
+    url: https://bg.copernicus.org/preprints/bg-2023-109/
+    display: Biogeosciences Discussion (2023)
   highlight: 0
 
 - title: "Predicting resilience through the lens of competing adjustments to vegetation function"

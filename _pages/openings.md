@@ -11,7 +11,7 @@ permalink: /vacancies
 ​
 Are you interested in modelling plant ecophysiology, adaptation and acclimation or ecosystem nutrient limitation? Are you interested in combining data from experiments with process-based models? Come work with us!
 
-- 4-year fully funded PhD studentship on modelling plant phenology. Details TBA.
+No specific vacancies available at present.
 
 In general, we are happy to host relevant applications for national and international postdoctoral fellowships
 
