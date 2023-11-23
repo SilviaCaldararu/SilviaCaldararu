@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Research"
+title: "Plant Ecology Modelling group - Research"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "Plant Ecology Modelling group -- Research"
 sitemap: false
 permalink: /research/
 ---
