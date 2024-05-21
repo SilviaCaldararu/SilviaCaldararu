@@ -31,11 +31,15 @@ We are a research group studying plant ecophysiology and the ways plant adapt to
 </div>
 
 
-We are part of the [Discipline of Botany](https://www.tcd.ie/Botany/) in the School of Natural Sciences at Trinity College Dublin. We are a vibrant and international team and take pride in inclusivity and diversity.
+We are part of the [Discipline of Botany](https://www.tcd.ie/Botany/) in the School of Natural Sciences at Trinity College Dublin. We are part of the Climate + Biodiversity + Water Co-centre and are funded through the SFI Frontiers for the Future programme.
+
+We are a vibrant and international team and take pride in inclusivity and diversity.
 
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_tcd.png" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_pem.png" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_quincy.png" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_pem.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_quincy.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_climate.jpg" style="width: 150px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_sfi.png" style="width: 150px">
 </figure>

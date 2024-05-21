@@ -11,7 +11,10 @@ permalink: /vacancies
 ​
 Are you interested in modelling plant ecophysiology, adaptation and acclimation or ecosystem nutrient limitation? Are you interested in combining data from experiments with process-based models? Come work with us!
 
-No specific vacancies available at present.
+We have two open positions part of the SFi-funded Trait-Tweaks project:
+- [PhD: Plant trait plasticity from models and manipulative experiment networks]({{ site.url }}{{ site.baseurl }}/downloads/trait-tweaks_PhD.pdf)
+
+- [Postdoc: Integrating plant plasticity and demography in land surface models]({{ site.url }}{{ site.baseurl }}/downloads/trait-tweaks_postdoc.pdf)
 
 In general, we are happy to host relevant applications for national and international postdoctoral fellowships
 
