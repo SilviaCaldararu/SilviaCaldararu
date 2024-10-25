@@ -1,10 +1,27 @@
+- title: "Modelling decadal trends and the impact of extreme events on carbon fluxes in a deciduous temperate forest using the QUINCY model"
+  image: dummy.png
+  description: ""
+  authors: Thum, T., Miinalainen, T., Seppälä, O., Croft, H., Rogers, C., Staebler, R., Caldararu, S., and Zaehle, S.
+  link: https://egusphere.copernicus.org/preprints/2024/egusphere-2024-2802/
+  display: Biogeosciences Discussion (2024)
+  highlight: 0
+  
+- title: "Nitrogen Availability and Summer Drought, but not N:P Imbalance Drive Carbon Use Efficiency of a Mediterranean Tree-Grass Ecosystem"
+  image: dummy.png
+  description: ""
+  authors: Nair, R., Luo, Y., El-Madany, T., Rolo, V., Pacheco-Labrador, J., Caldararu, S., Morris, K. A., Schrumpf, M., Carrara, A., Moreno, G., Reichstein, M., and Migliavacca, M.
+  link:
+    url: https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.17486
+    display: Global Change Biology (2024)
+  highlight: 0
+  
 - title: "Leaf habit and nutrient availability drive leaf nutrient resorption globally"
   image: dummy.png
   description: ""
   authors:  Sophia, G., Caldararu, S., Stocker, B., and Zaehle, S.
   link:
-    url: https://egusphere.copernicus.org/preprints/2024/egusphere-2024-687/#discussion
-    display: Biogeosciences Discussion (2024)
+    url: https://bg.copernicus.org/articles/21/4169/2024/
+    display: Biogeosciences (2024)
   highlight: 0
   
 - title: "Modelled forest ecosystem carbon-nitrogen dynamics with integrated mycorrhizal processes under elevated CO2"
@@ -32,15 +49,6 @@
   link:
     url: https://www.science.org/doi/10.1126/sciadv.adh9444
     display: Science Advances (2023)
-  highlight: 0
-  
-- title: "Nitrogen Availability and Summer Drought, but not N:P Imbalance Drive Carbon Use Efficiency of a Mediterranean Tree-Grass Ecosystem"
-  image: dummy.png
-  description: ""
-  authors: Nair, R., Luo, Y., El-Madany, T., Rolo, V., Pacheco-Labrador, J., Caldararu, S., Morris, K. A., Schrumpf, M., Carrara, A., Moreno, G., Reichstein, M., and Migliavacca, M.
-  link:
-    url: https://doi.org/10.5194/egusphere-2023-2434
-    display: EGUsphere (2023)
   highlight: 0
   
 - title: "Beyond model evaluation – combining experiments and models to advance terrestrial ecosystem science"

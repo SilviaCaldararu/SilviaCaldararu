@@ -33,7 +33,7 @@ Manipulative ecosystem experiments are broadly defined as outdoor experimental s
 
 <i>Funder: Science Foundation Ireland (SFI)</i>
 
-<i>Team members: TBA</i>
+<i>Team members: Luke Daly</i>
 
 Land surface models (LSMs) have made significant advances in incorporating biologically realistic processes but are still far from adequately representing plant responses to changes in climate or atmospheric CO2. Plants are fundamentally plastic, and respond flexibly to their environment, both at short timescales through plasticity and across multiple generations through evolution and competition, processes currently not incorporated in LSMs. Trait-Tweaks will bridge this gap by creating the first model to include theoretical concepts from biogeochemistry and evolutionary ecology. The project brings together complementary data sources from existing experimental networks, and global trait databases. Large datasets of plant traits provide a wealth of information but are often limited to statistical analyses. trait-tweaks will shift the way we work with plant traits by providing process understanding and testable hypotheses for global trait distributions. 
 
@@ -43,7 +43,7 @@ Land surface models (LSMs) have made significant advances in incorporating biolo
 
 <i>Funder: SFI/DAERA/UKRI</i>
 
-<i>Team members: TBA</i>
+<i>Team members: Gayathri Girish Nair</i>
 
 Climate + biodiversity + water is a joint research centre between academic institutions in Ireland, Northern Ireland and Great Britain as well as multiple industry partners. We aim to tackle the joint global crises of climate change, biodiversity loss and water degradation from both a fundamental science point of view and applied and policy perspective. The PEM group is actively involved in Platform 1: Projections and working on future predictions of the carbon cycle under changes in climate and land use and novel ways to integrate biodiversity into land surface models.
 
