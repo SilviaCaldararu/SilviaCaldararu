@@ -15,7 +15,7 @@ We currently have two open positions as part of the E-PATH EPA funded project in
 
 - [Postdoc in ecological forecasting of plant resistance to ash dieback and other pathogens]({{ site.url }}{{ site.baseurl }}/downloads/E-PATH_postdoc_advert.pdf)
 
-- PhD position to be advertised soon
+- [PhD in Investigating Tree Resistance to Pathogens Using Field and Molecular Data: A Case Study on Ash Dieback](https://www.teagasc.ie/media/website/about/walsh-scholarships/2024207-WS-Advert.pdf)
 
 In general, we are happy to host relevant applications for national and international postdoctoral fellowships
 
