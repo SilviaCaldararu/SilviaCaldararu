@@ -31,9 +31,9 @@ Manipulative ecosystem experiments are broadly defined as outdoor experimental s
 **Trait-Tweaks: Exploring Ecological Realism in Ecosystem Models under Future Climate Conditions**
 ![]({{ site.url }}{{ site.baseurl }}/images/research/TT.png){: style="width: 30%; float: right; margin: 0px"}
 
-<i>Funder: Science Foundation Ireland (SFI)</i>
+<i>Funder: Research Ireland</i>
 
-<i>Team members: Luke Daly</i>
+<i>Team members: Camille Abadie, Luke Daly</i>
 
 Land surface models (LSMs) have made significant advances in incorporating biologically realistic processes but are still far from adequately representing plant responses to changes in climate or atmospheric CO2. Plants are fundamentally plastic, and respond flexibly to their environment, both at short timescales through plasticity and across multiple generations through evolution and competition, processes currently not incorporated in LSMs. Trait-Tweaks will bridge this gap by creating the first model to include theoretical concepts from biogeochemistry and evolutionary ecology. The project brings together complementary data sources from existing experimental networks, and global trait databases. Large datasets of plant traits provide a wealth of information but are often limited to statistical analyses. trait-tweaks will shift the way we work with plant traits by providing process understanding and testable hypotheses for global trait distributions. 
 
@@ -41,7 +41,7 @@ Land surface models (LSMs) have made significant advances in incorporating biolo
 **Climate + biodiversity + water Co-centre**
 ![]({{ site.url }}{{ site.baseurl }}/images/logopic/logo_climate.jpg){: style="width: 20%; float: left; margin: 0px"}
 
-<i>Funder: SFI/DAERA/UKRI</i>
+<i>Funder: Research Ireland/DAERA/UKRI</i>
 
 <i>Team members: Gayathri Girish Nair</i>
 
