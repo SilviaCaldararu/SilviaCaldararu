@@ -43,13 +43,22 @@
   education3: Machine Learning Engineer, Commtel Networks, 2022-2023
 
 - name: Luke Daly
-  photo: bio-photo.jpg
+  photo: Luke.jpeg
   info: Plant trait plasticity from models and manipulative experiment networks
   email: dalyl14@tcd.ie
   number_educ: 3
   education1: PhD student, September 2024 - present
   education2: Research assistant, University College Dublin, 2022-2024
   education3: BSc Biology, Maynooth University
+
+- name: Camille Abadie 
+  photo: Camille.jpg
+  info: Modeling ecosystem demography and competition processes to improve ecological realism
+  email: ABADIEC@tcd.ie
+  number_educ: 3
+  education1: Postdoctoral researcher, January 2025 - present
+  education2: PhD, Laboratory for Sciences of Climate and Environment (LSCE), 2021 - 2024
+  education3: MSc Environmental Sciences, AgroParisTech - Paris-Saclay University, 2017 - 2021
   
 - name: Stephen Byrne
   photo: stephen.jpg
@@ -67,11 +76,3 @@
   education1: PhD student, September 2022 - present
   education2: BA Environmental Science, Trinity College Dublin, 2022
 
-- name: Camille Abadie 
-  photo: Camille.jpg
-  info: Modeling ecosystem demography and competition processes to improve ecological realism
-  email: ABADIEC@tcd.ie
-  number_educ: 3
-  education1: Postdoctoral researcher, January 2025 - present
-  education2: PhD, Laboratory for Sciences of Climate and Environment (LSCE), 2021 - 2024
-  education3: MSc Environmental Sciences, AgroParisTech - Paris-Saclay University, 2017 - 2021
