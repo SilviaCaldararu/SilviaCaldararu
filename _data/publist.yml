@@ -1,17 +1,28 @@
+- title: "Dynamic nitrogen resorption improves predictions of nitrogen cycling responses to global change in a next generation ecosystem model"
+  image: dummy.png
+  description: ""
+  authors: Sophia, G., Caldararu, S., Stocker, B., and Zaehle, S.
+  link:
+    url: https://essopenarchive.org/users/919927/articles/1292176-dynamic-nitrogen-resorption-improves-predictions-of-nitrogen-cycling-responses-to-global-change-in-a-next-generation-ecosystem-model?commit=c7b8133452444553a64cc0defc3125c189412e3e
+    display: ESS Open Archive (preprint, 2025)
+  highlight: 0
+  
 - title: "A framework for long-term environmental monitoring using living plant collections in botanic gardens: A global review and case study from Trinity College Botanic Garden"
   image: dummy.png
   description: ""
   authors: Yajima, M.,, Murray, M., Chondrogiannis, C., Waldren, S. and McElwain, J.
-  link: https://nph.onlinelibrary.wiley.com/doi/10.1002/ppp3.10628
-  display: Plants People Planet (2025)
+  link:
+    url: https://nph.onlinelibrary.wiley.com/doi/10.1002/ppp3.10628
+    display: Plants People Planet (2025)
   highlight: 0
   
 - title: "Modelling decadal trends and the impact of extreme events on carbon fluxes in a deciduous temperate forest using the QUINCY model"
   image: dummy.png
   description: ""
   authors: Thum, T., Miinalainen, T., Seppälä, O., Croft, H., Rogers, C., Staebler, R., Caldararu, S., and Zaehle, S.
-  link: https://egusphere.copernicus.org/preprints/2024/egusphere-2024-2802/
-  display: Biogeosciences Discussion (2024)
+  link:
+    url: https//egusphere.copernicus.org/preprints/2024/egusphere-2024-2802/
+    display: Biogeosciences Discussion (2024)
   highlight: 0
   
 - title: "Nitrogen Availability and Summer Drought, but not N:P Imbalance Drive Carbon Use Efficiency of a Mediterranean Tree-Grass Ecosystem"
