@@ -11,9 +11,7 @@ permalink: /vacancies
 ​
 Are you interested in modelling plant ecophysiology, adaptation and acclimation or ecosystem nutrient limitation? Are you interested in combining data from experiments with process-based models? Come work with us!
 
-We currently have an open positions as part of the E-PATH EPA funded project in collaboration with Teagasc, looking at plant resistance to pahtogens:
-
-- [Postdoc in ecological forecasting of plant resistance to ash dieback and other pathogens]({{ site.url }}{{ site.baseurl }}/downloads/E-PATH_postdoc_advert.pdf)
+There are currently no open positions in the group.
 
 In general, we are happy to host relevant applications for national and international postdoctoral fellowships
 

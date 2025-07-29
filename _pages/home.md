@@ -8,13 +8,19 @@ permalink: /
 
 We are a research group studying plant ecophysiology and the ways plant adapt to global change through process based vegetation models. We combine ecological biogeochemical knowledge to create better predictions of the Earth's future.
 
+<style>
+  #carousel .carousel-inner .item img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+  }
+</style>
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
             <li data-target="#carousel" data-slide-to="0" class="active"></li>
       	  <li data-target="#carousel" data-slide-to="1"></li>
-       	 <li data-target="#carousel" data-slide-to="2"></li>
     </ol>
 
     <!-- Items -->
@@ -37,7 +43,7 @@ We are a research group studying plant ecophysiology and the ways plant adapt to
 </div>
 
 
-We are part of the [Discipline of Botany](https://www.tcd.ie/Botany/) in the School of Natural Sciences at Trinity College Dublin. We are part of the Climate + Biodiversity + Water Co-centre and are funded through the Research ireland Frontiers for the Future programme.
+We are part of the [Discipline of Botany](https://www.tcd.ie/Botany/) in the School of Natural Sciences at Trinity College Dublin. We are part of the Climate + Biodiversity + Water Co-centre and are funded through the Research ireland Frontiers for the Future programme and by the Irish Environmental Protection Agency.
 
 We are a vibrant and international team and take pride in inclusivity and diversity. You can read about our commitment to these values and how we work together in our [Code of Conduct]({{ site.url }}{{ site.baseurl }}/downloads/Code_of_Conduct.pdf).
 
@@ -48,4 +54,5 @@ We are a vibrant and international team and take pride in inclusivity and divers
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_quincy.png" style="width: 100px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_climate.jpg" style="width: 150px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_research_ireland.jpg" style="width: 150px">
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_epa.jpg" style="width: 150px">
 </figure>
