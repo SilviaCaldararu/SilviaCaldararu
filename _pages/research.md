@@ -32,7 +32,7 @@ Manipulative ecosystem experiments are broadly defined as outdoor experimental s
 
 <i>Funder: EPA</i>
 
-<i>Team members: Carmen Watkins, Julia Veres</I>
+<i>Team members: Carmen Watkins </I>
 
 Outbreaks of plant diseases, such as the recent widespread effects of ash dieback in Ireland and across Europe, pose a major threat to both natural and managed habitats. With the inevitable advancement of climate change, both the risk of new pathogens and plant susceptibility are likely to increase. This will be compounded by abiotic stressors such as drought, heat, and extreme rainfall, making plants more vulnerable to new infections. Therefore, it is critical that we have the tools needed to forecast such outbreaks and take short- and medium-term decisions about landscape management. In this project, we will build an ecological forecasting tool based on plant eco-physiological models, with an aim to provide localised, short-term information on the probability and degree of infection and to what extent a tree can survive. The project is in collaboration with Dr. Dheeraj Rathore (Teagasc) and will integrate molecular and physiological data collection with model development.
 

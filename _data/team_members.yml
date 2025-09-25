@@ -67,6 +67,15 @@
   number_educ: 2
   education1: PhD student, September 2022 - present
   education2: BA Environmental Science, Trinity College Dublin, 2022
+
+- name: Carmen Watkins 
+  photo: Carmen.jpg
+  info: Forecasting tree resistance to pathogens; facilitative interactions and species coexistence in grasslands
+  email: WATKINSC@tcd.ie 
+  number_educ: 3
+  education1: Postdoctoral researcher, August 2025 - present
+  education2: PhD Biology, University of Oregon, 2025
+  education3: BSc Biology, University of Minnesota, 2019
   
 - name: Stephen Byrne
   photo: stephen.jpg
