@@ -55,10 +55,11 @@
   photo: Camille.jpg
   info: Modeling ecosystem demography and competition processes to improve ecological realism
   email: ABADIEC@tcd.ie
-  number_educ: 3
-  education1: Postdoctoral researcher, January 2025 - present
-  education2: PhD, Laboratory for Sciences of Climate and Environment (LSCE), 2021 - 2024
-  education3: MSc Environmental Sciences, AgroParisTech - Paris-Saclay University, 2017 - 2021
+  number_educ: 4
+  education1: <a href="https://camilleabadie.github.io/">Website</a>
+  education2: Postdoctoral researcher, January 2025 - present
+  education3: PhD, Laboratory for Sciences of Climate and Environment (LSCE), 2021 - 2024
+  education4: MSc Environmental Sciences, AgroParisTech - Paris-Saclay University, 2017 - 2021
 
 - name: Rebecca Rivera 
   photo: Rebecca.jpg

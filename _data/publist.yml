@@ -1,3 +1,30 @@
+- title: "A general physiologically driven representation of leaf turnover in grasslands in the QUINCY land surface model (revision: 974a6b7f)"
+  image: dummy.png
+  description: ""
+  authors: Seitz, J., Yajima, M., Zhu, Y., Joseph, L. S. K., Yang, J., Lacroix, F., Luo, Y., Schaumberger, A., Bahn, M., Zaehle, S., and Caldararu, S.
+  link:
+    url: https://egusphere.copernicus.org/preprints/2026/egusphere-2025-5731/
+    display: EGUsphere (2026)
+  highlight: 0
+  
+- title: "Phenological benchmarking with a land surface model: an in-silico experiment for temperate forests"
+  image: dummy.png
+  description: ""
+  authors: Yajima, M., Seitz, J., Matthaeus, W.J., Girish Nair, G., Daly, L., Caldararu, S.
+  link:
+    url: https://www.biorxiv.org/content/10.1101/2025.11.20.689458v1.full
+    display: bioRxiv (2025)
+  highlight: 0
+  
+- title: "Evaluating the carbon and nitrogen cycles of the QUINCY terrestrial biosphere model using space-born optical remotely-sensed data"
+  image: dummy.png
+  description: ""
+  authors: Miinalainen, T., Ojasalo, A., Croft, H., Aurela, M., Peltoniemi, M., Caldararu, S., Zaehle, S., and Thum, T
+  link:
+    url: https://bg.copernicus.org/articles/22/6937/2025/
+    display: Biogeosciences (2025)
+  highlight: 0
+  
 - title: "Dynamic nitrogen resorption improves predictions of nitrogen cycling responses to global change in a next generation ecosystem model"
   image: dummy.png
   description: ""
@@ -21,8 +48,8 @@
   description: ""
   authors: Thum, T., Miinalainen, T., Seppälä, O., Croft, H., Rogers, C., Staebler, R., Caldararu, S., and Zaehle, S.
   link:
-    url: https//egusphere.copernicus.org/preprints/2024/egusphere-2024-2802/
-    display: Biogeosciences Discussion (2024)
+    url: https://bg.copernicus.org/articles/22/1781/2025/
+    display: Biogeosciences (2025)
   highlight: 0
   
 - title: "Nitrogen Availability and Summer Drought, but not N:P Imbalance Drive Carbon Use Efficiency of a Mediterranean Tree-Grass Ecosystem"
