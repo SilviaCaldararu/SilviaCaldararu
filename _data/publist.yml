@@ -1,3 +1,12 @@
+- title: "Palaeoecological and functional guild changes in fungal palynomorphs from Irish peatlands: Evidence from Clara Bog"
+  image: dummy.png
+  description: ""
+  authors: Rivera, R., O'Keefe, J. and Caldararu, S.
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0034666726001582
+    display: Review of Palaeobotany and Palynology, (2026)
+  highlight: 0
+
 - title: "A general physiologically driven representation of leaf turnover in grasslands in the QUINCY land surface model (revision: 974a6b7f)"
   image: dummy.png
   description: ""
@@ -5,6 +14,15 @@
   link:
     url: https://egusphere.copernicus.org/preprints/2026/egusphere-2025-5731/
     display: EGUsphere (2026)
+  highlight: 0
+
+- title: "Dynamic nitrogen resorption improves predictions of nitrogen cycling responses to global change in a next generation ecosystem model"
+  image: dummy.png
+  description: ""
+  authors: Sophia, G., Caldararu, S., Stocker, B., and Zaehle, S.
+  link:
+    url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2025MS005181
+    display: JAMES (2026)
   highlight: 0
   
 - title: "Phenological benchmarking with a land surface model: an in-silico experiment for temperate forests"
@@ -23,15 +41,6 @@
   link:
     url: https://bg.copernicus.org/articles/22/6937/2025/
     display: Biogeosciences (2025)
-  highlight: 0
-  
-- title: "Dynamic nitrogen resorption improves predictions of nitrogen cycling responses to global change in a next generation ecosystem model"
-  image: dummy.png
-  description: ""
-  authors: Sophia, G., Caldararu, S., Stocker, B., and Zaehle, S.
-  link:
-    url: https://essopenarchive.org/users/919927/articles/1292176-dynamic-nitrogen-resorption-improves-predictions-of-nitrogen-cycling-responses-to-global-change-in-a-next-generation-ecosystem-model?commit=c7b8133452444553a64cc0defc3125c189412e3e
-    display: ESS Open Archive (preprint, 2025)
   highlight: 0
   
 - title: "A framework for long-term environmental monitoring using living plant collections in botanic gardens: A global review and case study from Trinity College Botanic Garden"
